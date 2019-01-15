@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Calcul_Nbre_LOG_FO" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
